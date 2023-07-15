@@ -1,0 +1,44 @@
+# Created at 2023-03-10T09:21:55.353
+Unexpected IOException with stream: 2023-03-10 09:21:55.351  INFO 268 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+# Created at 2023-03-10T09:21:55.392
+Unexpected IOException with stream: 2023-03-10 09:21:55.392  INFO 268 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+
+
+# Created at 2023-03-10T09:21:55.555
+Unexpected IOException with stream: 2023-03-10 09:21:55.554  INFO 268 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+
+
+# Created at 2023-03-10T09:21:55.756
+Unexpected IOException with stream: 2023-03-10 09:21:55.756  INFO 268 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+
+
+# Created at 2023-03-10T09:21:56.359
+Unexpected IOException with stream: 2023-03-10 09:21:56.359  INFO 268 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2023-03-10T09:21:56.370
+Unexpected IOException with stream: 2023-03-10 09:21:56.370  INFO 268 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2023-03-10T09:21:56.923
+Unexpected IOException with stream: 2023-03-10 09:21:56.922  WARN 268 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2023-03-10T09:21:58.180
+Unexpected IOException with stream: 2023-03-10 09:21:58.179  INFO 268 --- [           main] com.menglin.BookSystemApplicationTests   : Started BookSystemApplicationTests in 125.777 seconds (JVM running for 126.58)
+
+
+# Created at 2023-03-10T09:21:58.292
+Unexpected IOException: 5,1,com.menglin.BookSystemApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-03-10T09:21:58.642
+Unexpected IOException: 6,1,com.menglin.BookSystemApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-03-10T09:21:58.644
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.menglin.BookSystemApplicationTests,null,null,null
+
+
